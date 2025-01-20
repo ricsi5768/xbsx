@@ -6,13 +6,13 @@
 
 body{
 	 background: url('../pics/bg-body.jpg');
+	 background-size: cover;
 	 margin: 0;
 }
 div{
 	background-color: white;
-	width: 400px;
+	max-width: 600px;
+	width: 90%;
 	padding: 20px;
-	margin: 20px auto;	
-	border-left: 10px solid green;
-	border-right: 10px solid red;
+	margin: 40px auto;
 }
