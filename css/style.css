@@ -7,6 +7,7 @@
 body{
 	 background: url('https://s98-ious.freeconvert.com/task/678e944b5557a50604d0a049/scontent-vie1-1.cdninstagram.com-....png');
 	 background-size: cover;
+	 background-position: top center;
 	 margin: 0;
 	 font-family: "Oswald", serif;
 }
