@@ -5,7 +5,7 @@
 }
 
 body{
-	 background: url('https://i.ibb.co/gF0Fmfg/1.png"') top center;
+	 background: url('../pics/bg-body.jpg') top center;
 	 background-size: cover;
 	 margin: 0;
 	 font-family: "Oswald", serif;
@@ -45,11 +45,11 @@ body{
 }
 
 .box .header-image{
-	background: url('https://i.ibb.co/gF0Fmfg/1.png"') top center;
+	background: url('../pics/image1.jpg') top center;
 	background-size: cover;
 	height: 200px;
 }
 
 .box.box-2 .header-image{
-	background-image: url('https://i.ibb.co/gF0Fmfg/1.png"');
+	background-image: url('../pics/image2.jpg');
 }
