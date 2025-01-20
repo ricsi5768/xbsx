@@ -10,7 +10,8 @@ body{
 }
 div{
 	background-color: white;
-	width: 400px;
+	
+	max-width: 800px;
 	padding: 20px;
 	margin: 20px auto;	
 	border-left: 10px solid green;
